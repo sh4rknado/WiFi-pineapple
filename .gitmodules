@@ -1,3 +1,6 @@
 [submodule "AR300M16-ext"]
 	path = AR300M16-ext
-	url = ./AR300M16-ext/
+	url = https://github.com/sh4rknado/AR300M16-ext.git
+[submodule "WRT3200ACM"]
+	path = WRT3200ACM
+	url = https://github.com/sh4rknado/WRT3200ACM.git
