@@ -1,0 +1,3 @@
+[submodule "AR300M16-ext"]
+	path = AR300M16-ext
+	url = ./AR300M16-ext/
